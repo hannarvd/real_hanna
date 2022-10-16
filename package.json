@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hannarvd/real_hanna/issues"
   },
-  "homepage": "https://github.com/hannarvd/real_hanna#readme"
+  "homepage": "https://github.com/hannarvd/real_hanna#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
